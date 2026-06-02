@@ -17,6 +17,8 @@ CORE_IMAGE_BASE_INSTALL += " \
     gst-plugins-imsdk-prop \
     iris-video-dlkm \
     kgsl-dlkm \
+    sail-mailbox-dlkm \
+    sail-mailbox-umd \
     libdiag-bin \
     qcom-adreno \
     qcom-sensors-binaries \
